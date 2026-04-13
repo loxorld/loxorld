@@ -112,12 +112,3 @@ Android game prototype developed in Unity, where I explore gameplay systems, tec
 
 ---
 
-## 🤝 Connect with me
-
-<p align="center">
-  <a href="mailto:brianlautaro@hotmail.com">Email</a>
-  •
-  <a href="https://www.linkedin.com/in/brian-la-delfa-349a8a230/" target="_blank">LinkedIn</a>
-  •
-  <a href="https://github.com/loxorld" target="_blank">GitHub</a>
-</p>
