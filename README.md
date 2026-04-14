@@ -8,6 +8,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Brian La Delfa</h1>
+<h3 align="center">**Analista Programador Universitario** — UNLP</h3>
 <h3 align="center">Backend Developer | Java • Spring Boot • APIs • PostgreSQL</h3>
 
 <p align="center">
